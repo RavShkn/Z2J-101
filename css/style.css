@@ -1,5 +1,12 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
 a:hover {
-    color: green;
+    color: red;
+    font-weight: bold;
 }
 
 header {
@@ -13,7 +20,6 @@ main {
 
 
 main ~ footer  {
-    text-align: center; 
     background-color: red;
 }
 
