@@ -1,7 +1,3 @@
-#redText {
-    color: tomato;
-}
-
 a:hover {
     color: green;
 }
@@ -11,11 +7,13 @@ header {
 }
 
 main {
+    
     background-color: green;
 }
 
 
-footer {
-    color: white;
-    background-color: blue;
+main ~ footer  {
+    text-align: center; 
+    background-color: red;
 }
+
