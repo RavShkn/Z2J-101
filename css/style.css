@@ -1,0 +1,21 @@
+#redText {
+    color: tomato;
+}
+
+a:hover {
+    color: green;
+}
+
+header {
+    background-color: pink;
+}
+
+main {
+    background-color: green;
+}
+
+
+footer {
+    color: white;
+    background-color: blue;
+}
